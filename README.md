@@ -33,8 +33,3 @@ This project analyzes IPL data using Python libraries such as Pandas, NumPy, Mat
 
 
 
-## 🔗 Connect
-
-- [🔗 LinkedIn](https://www.linkedin.com/in/your-profile)
-- [🔗 GitHub](https://github.com/yourusername/ipl-eda-project)
-
